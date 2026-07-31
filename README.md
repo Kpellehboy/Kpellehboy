@@ -5,112 +5,85 @@
 <h1 align="center">Hi 👋, I'm Elijah M. Flomo</h1>
 
 <h3 align="center">
-Backend Engineer • AI Researcher • Graduate Student
+AI Researcher • Backend Engineer • M.Sc. Computer Science Student
 </h3>
 
 <p align="center">
-Building intelligent, scalable, and trustworthy AI systems for real-world impact.
+Building intelligent AI systems and scalable backend solutions for real-world impact.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kpellehboy">
-    <img src="https://komarev.com/ghpvc/?username=Kpellehboy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+<a href="https://github.com/Kpellehboy">
+<img src="https://komarev.com/ghpvc/?username=Kpellehboy&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
-  <a href="https://github.com/Kpellehboy?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kpellehboy?label=Followers&style=social" />
-  </a>
-
-  <a href="https://github.com/Kpellehboy">
-    <img src="https://img.shields.io/github/stars/Kpellehboy?affiliations=OWNER&style=social" />
-  </a>
+<a href="https://github.com/Kpellehboy?tab=followers">
+<img src="https://img.shields.io/github/followers/Kpellehboy?style=social" />
+</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 Master's Student in Computer Science
+🎓 M.Sc. Computer Science Student at **SR University**
 
-💡 Backend Engineer with a passion for scalable systems and cloud-native applications.
+🔬 AI Researcher with interests in **Computer Vision**, **Edge AI**, and **Efficient AI**
 
-🤖 AI Researcher focusing on intelligent systems and practical machine learning.
+💻 Backend Engineer passionate about building scalable REST APIs and backend systems
 
-🌍 Interested in applying AI to solve real-world problems across healthcare, education, and nonprofit technology.
+📄 First Author of an **IEEE INCECT 2026 Accepted Paper**
+
+🌍 Open to research collaborations, internships, and open-source projects
 
 ---
 
 # 🔬 Research Interests
 
-- Edge AI
-- Intelligent Systems
 - Computer Vision
-- Efficient & Trustworthy AI
+- Edge AI
+- Efficient AI
+- Intelligent Systems
 - Cloud Computing
 - Distributed Systems
 - Network & Information Security
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-- Production-grade Backend Systems
-- AI-powered Applications
-- Computer Vision Research
+- AI Research
+- Computer Vision
+- Backend Engineering
+- REST API Development
 - Open Source Contributions
-- Cloud-native Development
-- Innovation Matrix Backend Platform
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
-
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-</p>
-
-### AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
 </p>
 
 ### Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-
-</p>
-
-### Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
-
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
@@ -119,15 +92,9 @@ Building intelligent, scalable, and trustworthy AI systems for real-world impact
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Kpellehboy&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kpellehboy&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpellehboy&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpellehboy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -137,9 +104,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpellehboy&l
 
 <p align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -149,7 +114,7 @@ src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_bord
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kpellehboy&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kpellehboy&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
@@ -165,61 +130,56 @@ src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_bord
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🚀 Innovation Matrix
+## Innovation Matrix
 
-Production-ready backend platform for a nonprofit organization using:
+Production-ready backend platform for nonprofit organizations.
+
+**Tech Stack**
 
 - Node.js
 - Express.js
-- TypeScript
 - PostgreSQL
-- Prisma ORM
-- JWT Authentication
-- Redis
-- Swagger
-- Cloudinary
 
 ---
 
-## 🤖 AI Commerce Assistant
+## Student Management System
 
-AI-powered commerce assistant integrating machine learning and backend services.
+Role-based university management system with secure authentication and cloud deployment.
 
----
+**Tech Stack**
 
-## 👁️ Computer Vision Projects
-
-Object Detection
-
-YOLOv8
-
-Real-time Vision Systems
+- FastAPI
+- PostgreSQL
 
 ---
 
-## ☁️ Cloud Computing Projects
+## AI-Commerce-Assistant-API
 
-Scalable backend deployment
-
-REST APIs
-
-Cloud-native architecture
+AI-powered backend API supporting natural language product search.
 
 ---
 
 # 📚 Publications
 
-📄 IEEE Conference Publication
+### 📝 Automated Classification of Multiclass Plant Disease Using MobileNetV2
 
-Artificial Intelligence
+**IEEE INCECT 2026**
 
-Computer Vision
+First Author
 
-Machine Learning
+Accepted for presentation and publication.
 
-(Coming soon on GitHub profile)
+---
+
+### 📝 Promise and Limits of Cross-Architecture Knowledge Distillation for Ultra-Lightweight Medical Vision Transformers at the Edge
+
+EDIGE 2026
+
+Second Author
+
+Submitted
 
 ---
 
@@ -227,23 +187,18 @@ Machine Learning
 
 - Advanced Computer Vision
 - Edge AI
-- AWS Cloud
-- Kubernetes
-- MLOps
-- Large Language Models
+- Efficient AI
+- Advanced Backend Engineering
 
 ---
 
-# 🤝 Let's Collaborate
-
-I'm interested in collaborating on:
+# 🤝 Looking to Collaborate On
 
 - AI Research
 - Computer Vision
-- Open Source
-- Backend Systems
-- Cloud Computing
-- Research Projects
+- Backend Development
+- Open Source Projects
+- Research Publications
 
 ---
 
@@ -252,19 +207,19 @@ I'm interested in collaborating on:
 <p align="center">
 
 <a href="https://github.com/Kpellehboy">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/elijah-flomo">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+<a href="https://elijahmflomo.vercel.app">
+<img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
 <a href="mailto:elijahmflomo@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
 </a>
 
 </p>
@@ -273,6 +228,6 @@ I'm interested in collaborating on:
 
 <p align="center">
 
-⭐️ From <a href="https://github.com/Kpellehboy">Elijah M. Flomo</a>
+⭐ If you find my projects useful, consider giving them a star!
 
 </p>
