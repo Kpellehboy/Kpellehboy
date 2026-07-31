@@ -35,10 +35,10 @@ I'm an **M.Sc. Computer Science** student at **SR University** with research int
 
 I enjoy building practical AI solutions, contributing to research, and developing software that addresses real-world problems.
 
-- 🎓 M.Sc. Computer Science — SR University, India
+- 🎓 M.Sc. Computer Science, SR University, India
 - 🔬 Research Areas: Computer Vision, Edge AI, Efficient AI
 - 💻 Backend Development with FastAPI, Flask, Node.js & Express.js
-- 📄 First Author — IEEE INCECT 2026 Accepted Paper
+- 📄 First Author, IEEE INCECT 2026 Accepted Paper
 - 🤝 Open to research collaborations, internships, and open-source contributions
 
 ---
