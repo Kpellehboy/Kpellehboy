@@ -9,7 +9,7 @@ AI Researcher • Backend Engineer • M.Sc. Computer Science Student
 </h3>
 
 <p align="center">
-Building intelligent AI systems and scalable backend solutions for real-world impact.
+Interested in Computer Vision, Edge AI, and building intelligent backend applications.
 </p>
 
 <p align="center">
@@ -26,15 +26,11 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 
 # 👨‍💻 About Me
 
-🎓 M.Sc. Computer Science Student at **SR University**
-
-🔬 AI Researcher with interests in **Computer Vision**, **Edge AI**, and **Efficient AI**
-
-💻 Backend Engineer passionate about building scalable REST APIs and backend systems
-
-📄 First Author of an **IEEE INCECT 2026 Accepted Paper**
-
-🌍 Open to research collaborations, internships, and open-source projects
+- 🎓 M.Sc. Computer Science student at **SR University**, India.
+- 🔬 Research interests include **Computer Vision**, **Edge AI**, **Efficient AI**, and intelligent systems.
+- 💻 Backend developer experienced in building RESTful APIs using **FastAPI**, **Flask**, **Node.js**, and **Express.js**.
+- 📄 First author of an accepted paper at **IEEE INCECT 2026** on MobileNetV2-based plant disease classification.
+- 🌍 Open to research collaborations, internships, and open-source contributions.
 
 ---
 
@@ -45,7 +41,6 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 - Efficient AI
 - Intelligent Systems
 - Cloud Computing
-- Distributed Systems
 - Network & Information Security
 
 ---
@@ -54,8 +49,8 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 
 - AI Research
 - Computer Vision
-- Backend Engineering
-- REST API Development
+- Backend API Development
+- Machine Learning Applications
 - Open Source Contributions
 
 ---
@@ -83,16 +78,21 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
+
+> GitHub Readme Stats occasionally experiences outages. If the images below don't load, the service is temporarily unavailable.
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kpellehboy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpellehboy&layout=compact&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kpellehboy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpellehboy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
 </p>
 
 ---
@@ -101,17 +101,7 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kpellehboy&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=Kpellehboy&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,62 +111,57 @@ Building intelligent AI systems and scalable backend solutions for real-world im
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpellehboy&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kpellehboy&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
-## Innovation Matrix
+### 🌱 Plant Disease Detection using MobileNetV2
 
-Production-ready backend platform for nonprofit organizations.
+Computer Vision project exploring deep learning for multiclass plant disease classification.
 
-**Tech Stack**
+### 👁️ Real-Time Object Detection using YOLOv8
 
-- Node.js
-- Express.js
-- PostgreSQL
+Real-time object detection using the YOLOv8 framework.
 
----
+### 🤖 AI Commerce Assistant API
 
-## Student Management System
+Backend API supporting AI-assisted product search and recommendations.
 
-Role-based university management system with secure authentication and cloud deployment.
+### 📄 RAG Document Intelligence API
 
-**Tech Stack**
+Retrieval-Augmented Generation API for intelligent document interaction.
 
-- FastAPI
-- PostgreSQL
+### 🧠 AI Research Agent
 
----
+Research-focused AI application for assisting with information gathering and analysis.
 
-## AI-Commerce-Assistant-API
+### 🌐 Personal Portfolio
 
-AI-powered backend API supporting natural language product search.
+My personal portfolio showcasing projects, research interests, and technical experience.
 
 ---
 
 # 📚 Publications
 
-### 📝 Automated Classification of Multiclass Plant Disease Using MobileNetV2
+### 📄 Automated Classification of Multiclass Plant Disease Using MobileNetV2
 
 **IEEE INCECT 2026**
 
-First Author
-
-Accepted for presentation and publication.
+- First Author
+- Accepted for presentation and publication
 
 ---
 
-### 📝 Promise and Limits of Cross-Architecture Knowledge Distillation for Ultra-Lightweight Medical Vision Transformers at the Edge
+### 📄 Promise and Limits of Cross-Architecture Knowledge Distillation for Ultra-Lightweight Medical Vision Transformers at the Edge
 
-EDIGE 2026
+**EDIGE 2026**
 
-Second Author
-
-Submitted
+- Second Author
+- Submitted
 
 ---
 
@@ -184,17 +169,19 @@ Submitted
 
 - Advanced Computer Vision
 - Edge AI
-- Efficient AI
-- Advanced Backend Engineering
+- Machine Learning
+- Backend System Design
 
 ---
 
-# 🤝 Looking to Collaborate On
+# 🤝 Looking to Collaborate
+
+I'm interested in collaborating on:
 
 - AI Research
 - Computer Vision
 - Backend Development
-- Open Source Projects
+- Open Source Software
 - Research Publications
 
 ---
@@ -204,15 +191,15 @@ Submitted
 <p align="center">
 
 <a href="https://github.com/Kpellehboy">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/elijah-flomo">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://elijahmflomo.vercel.app">
-<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 <a href="mailto:elijahmflomo@gmail.com">
@@ -225,6 +212,6 @@ Submitted
 
 <p align="center">
 
-⭐ If you find my projects useful, consider giving them a star!
+Thanks for visiting my profile! ⭐
 
 </p>
