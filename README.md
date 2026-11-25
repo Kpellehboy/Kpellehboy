@@ -5,13 +5,9 @@
 <h1 align="center">Hi 👋, I'm Elijah M. Flomo</h1>
 
 <h3 align="center">
-AI Researcher • Backend Engineer • M.Sc. Computer Science Student
+Applied AI & Machine Learning Researcher | Cybersecurity & Cloud Technologies | 
+  Digital Innovation for Agriculture, Climate & Env | Software Developer
 </h3>
-
-<p align="center">
-Computer Vision • Edge AI • Backend Systems • Efficient AI
-</p>
-
 <p align="center">
   <a href="https://github.com/Kpellehboy">
     <img src="https://komarev.com/ghpvc/?username=Kpellehboy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
