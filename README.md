@@ -37,12 +37,12 @@ My work sits at the intersection of **AI research and backend engineering**. I e
 
 I am particularly interested in systems that combine **intelligent models, efficient computation, and reliable backend infrastructure**.
 
-* 🎓 M.Sc. Computer Science — SR University, India
-* 🔬 Research interests — Computer Vision, Edge AI, Efficient AI
-* 💻 Backend — Python, FastAPI, Flask, Node.js, Express.js
-* 🗄️ Databases — PostgreSQL, MongoDB, MySQL
-* ☁️ Interests — Cloud Computing, Backend Systems, AI Infrastructure
-* 📄 First Author — IEEE INCECT 2026 accepted paper
+* 🎓 M.Sc. Computer Science - SR University, India
+* 🔬 Research interests - Computer Vision, Security, Efficient AI, Agri & Env
+* 💻 Backend - Python, FastAPI, Flask, Node.js, Express.js
+* 🗄️ Databases - PostgreSQL, MongoDB, MySQL
+* ☁️ Interests - Cloud Computing, Backend Systems, AI Infrastructure
+* 📄 Publication - 2 conference papers 
 * 🤝 Open to research collaborations, internships, and selected open-source projects
 
 ---
