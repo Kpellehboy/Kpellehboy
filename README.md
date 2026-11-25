@@ -45,7 +45,7 @@ I am particularly interested in systems that combine **intelligent models, effic
 
 ## 🏢 Production Experience
 
-### Innovation Matrix — Production Backend Platform
+### Innovation Matrix - Production Backend Platform
 
 **Backend Engineer / Student Developer**
 
@@ -160,17 +160,10 @@ The backend is built as a production-oriented REST API supporting the organizati
 ### 📄 Automated Classification of Multiclass Plant Disease Using MobileNetV2
 
 **IEEE INCECT 2026**
-
-* First Author
-* Accepted for presentation and publication
-
 ---
 
 ### 📄 Promise and Limits of Cross-Architecture Knowledge Distillation for Ultra-Lightweight Medical Vision Transformers at the Edge
-
 * Second Author
-* Submitted
-
 ---
 
 ## 📈 Contribution Activity
